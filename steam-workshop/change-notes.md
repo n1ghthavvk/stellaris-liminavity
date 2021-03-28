@@ -1,3 +1,6 @@
+Version 1.3.2
+* Added feedback to bash scripts
+
 Version 1.3.1
 * Migrated mod to GitHub
 
