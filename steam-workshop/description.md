@@ -12,6 +12,11 @@ The mod is compatible with everything.
 
 It does not require starting a new game to work (and can be removed at any time).
 
+New updates will probably never require an update to this mod, as the one thing it touches hasn't been changed by Paradox, ever.
+Therefore the mod has been tagged to accept any past and future game versions.
+
+Still, if you notice it stopped working, let me know.
+
 [h1]Obligatory Footnote[/h1]
 [url=https://github.com/n1ghthavvk/stellaris-liminavity][img]https://i.imgur.com/0nVeF3I.png[/img][/url]
 Looking for my other creations?

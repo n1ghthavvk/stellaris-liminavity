@@ -7,5 +7,5 @@ tags={
 }
 picture="thumbnail.png"
 name="Unlimited Naval Capacity"
-supported_version="3.*"
+supported_version="*"
 remote_file_id="2080968400"
