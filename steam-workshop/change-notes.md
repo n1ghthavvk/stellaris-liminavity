@@ -1,3 +1,6 @@
+Version 1.4.0
+* Update to game versions 3.0.2 and beyond
+
 Version 1.3.2
 * Added feedback to bash scripts
 
