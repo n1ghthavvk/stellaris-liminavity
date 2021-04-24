@@ -22,7 +22,6 @@ Still, if you notice it stopped working, let me know.
 Looking for my other creations?
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1998204784][img]https://i.imgur.com/wJgHgx8.jpg[/img][/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1868834704][img]https://i.imgur.com/sbtUpRC.jpg[/img][/url]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1904693690][img]https://i.imgur.com/y6YiZ6I.png[/img][/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2036087802][img]https://i.imgur.com/JCGnvng.jpg[/img][/url]
 
 Thanks for reading the description, downloading & playing with my mods!
